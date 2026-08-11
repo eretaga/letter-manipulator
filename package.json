@@ -1,0 +1,13 @@
+{
+  "name": "letter-manipulation-app",
+  "version": "1.0.0",
+  "description": "Interactive letter manipulation web app",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx -y http-server . -p 8081 -c-1",
+    "start": "npx -y http-server . -p 8081 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
